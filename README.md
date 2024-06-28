@@ -1,5 +1,6 @@
 <h1>CODSOFT WEB-PROGRAMMING</h1>
 
+<br>
 <h2>Task 1</h2>
 
 <h3>Portfolio</h3>
@@ -16,6 +17,7 @@ Overview of my skills and areas of expertise.
 <li>CSS</li>
 <li>JavaScript</li>
 
+<br>
 <h2>Task 2</h2>
 <h3>Landing Page</h3>
 This is a Landing Page for a online shopping website.
@@ -28,6 +30,7 @@ Navigates users to different sections as per their needs.
 <li>CSS</li>
 <li>JavaScript</li>
 
+<br>
 <h2>Task 3</h2>
 <h3>Calculator</h3>
 This is a simple calculator web application that allows users to perform basic arithmetic calculations. The application provides a user-friendly interface with buttons for digits, operators, and functions.
